@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 <!-- <img width="100%" alt="Developer Illustration" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Illustration.gif"/> -->
 <br />
 <br />
@@ -14,9 +14,6 @@ I'm a Computer Science stuent at UC Irvine, developing and implementing applicat
 
 I'm currently based in **[Irvine, California.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
 
-<br />
-I love learning new techs and using new tools.
-<br />
 <br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
