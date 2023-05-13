@@ -13,12 +13,6 @@ I'm a Computer Science stuent at UC Irvine, developing and implementing applicat
 <br />
 
 I'm currently based in **[Irvine, California.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
-
-<br />
-
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/anmho/anmho/issues/new)** or <a href="mailto:andyminhtuanho@gmail.com"><b>send me an email</b></a>.
-<br />
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anmho&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Andy Ho Stats">
