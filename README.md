@@ -19,7 +19,7 @@ I'm currently based in **[Irvine, California.](https://www.google.com/maps/place
 <br />
 <br />
 
-**Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=anmho&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)**
+[comment]: <> (**Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=anmho&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)**)
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmho&layout=compact&theme=dark&bg_color=0A0A0A" alt="Andy Ho Top Languages"/>
