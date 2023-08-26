@@ -12,7 +12,7 @@
 Currently studying computer science at UC Irvine. I'm excited about writing innovative, resilient services. I'm interested in distributed systems, security, databases, and applied ML. Currently working with gRPC, Golang, Spring, Stripe API, and multithreading.
 
 Favorite cheese: Brie!!
-Favorite language: Python (Golang is rising the ranks)
+Favorite languages: Java, Python, Golang!
 <br />
 
 I'm currently based in **[Irvine, California.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
