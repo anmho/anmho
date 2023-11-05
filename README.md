@@ -12,7 +12,7 @@
 Currently studying computer science at UC Irvine. I'm excited about writing innovative, resilient services. I'm interested in distributed systems, security, databases, and applied ML. Currently working with performant data stores in distributed environments at Snap to bring rapid time series analytics. I'm also working with gRPC, Go, Spring, Stripe, and multithreading to build services for my university.
 <br />
 
-I'm currently based in **[Irvine, California.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
+I'm currently based in **Irvine, California.**
 <br />
 
 [comment]: <> (<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmho&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Andy Ho Stats">)
