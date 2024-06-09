@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Currently studying computer science at UC Irvine. I'm excited about writing innovative, resilient services. I'm interested in distributed systems, security, databases, and applied ML. Previously worked with performant data stores in distributed environments at Snap to bring rapid time series analytics.
+Currently studying computer science at UC Irvine. I'm excited about writing innovative, resilient services. I'm interested in distributed systems, security, databases, and applied ML.
 <br />
 
 I'm currently based in **Irvine, California.**
