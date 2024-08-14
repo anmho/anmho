@@ -14,6 +14,7 @@ Currently studying computer science at UC Irvine. I'm excited about writing inno
 
 I'm currently based in **Irvine, California.**
 <br />
+![image](https://github.com/user-attachments/assets/e401e28c-61d6-478e-b3bc-91790921a38e)
 
 
 **Happy Coding!** 😊
