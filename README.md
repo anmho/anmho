@@ -10,6 +10,7 @@
 <br />
 
 Currently studying computer science at UC Irvine. I'm excited about writing innovative, resilient services. I'm interested in distributed systems, security, databases, and applied ML.
+Backend on Messaging at Snap
 <br />
 
 I'm currently based in **Irvine, California.**
