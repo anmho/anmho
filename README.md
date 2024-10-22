@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Currently studying computer science at UC Irvine. I'm excited about writing innovative, resilient services. I'm interested in distributed systems, security, databases, and applied ML.
+Currently studying computer science at UC Irvine. I'm excited about designing and implementing scalable distributed systems as applicable to security, databases, and machine learning.
 Backend on Messaging at Snap.
 
 <br/>
