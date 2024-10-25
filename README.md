@@ -13,7 +13,7 @@ Currently studying computer science at UC Irvine. I'm excited about designing an
 Backend on Messaging at Snap.
 
 <br/>
-Current favorite tools: Go, Docker, Spark, and PyTorch.
+Current favorite tools: Go, Docker, Spark, CUDA, and PyTorch.
 <br />
 
 I'm currently based in **Irvine, California.**
