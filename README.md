@@ -9,10 +9,11 @@
 <br />
 <br />
 
-Currently studying computer science at UC Irvine. I'm excited about designing and implementing scalable distributed systems as applicable to security, databases, and machine learning.
-Backend on Messaging at Snap.
+Currently studying computer science at UC Irvine. I'm interested in about building scalable distributed systems relating to security, databases, and machine learning.
+I've previously worked at Snapchat (messaging, ads) and Tesla (vehicle engineering).
 
 <br/>
+
 Current favorite tools: Go, Docker, Spark, CUDA, and PyTorch.
 <br />
 
